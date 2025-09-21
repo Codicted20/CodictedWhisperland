@@ -206,17 +206,31 @@ function loadAudio(bookName, pageIndex) {
     audio.currentTime = 0;
   }
 
+  // ✅ Naya audio banaye
   audio = new Audio(
     `audio/${currentLanguage}/${bookName}page${pageIndex + 1}.mp3`
   );
 
-  audio.play();
+  // ✅ Play safely with catch
+  audio.play().catch((err) => {
+    console.warn("Audio play failed:", err);
+  });
 
+  // ✅ Agar pehle se interval chal raha hai to clear karo
   if (sceneInterval) clearInterval(sceneInterval);
 
+  // ✅ Scene change track karne ke liye interval
   sceneInterval = setInterval(() => {
     handleSceneChangeByAudio();
   }, 500);
+
+  // ✅ Jab audio khatam ho → voice mode me next page auto flip
+  audio.onended = () => {
+    console.log("Audio finished for page:", pageIndex);
+    if (currentMode === "voice" && currentPage < totalPages - 1) {
+      nextBtn.click(); // simulate button click → page flip
+    }
+  };
 }
 
 function loadPage(index) {
