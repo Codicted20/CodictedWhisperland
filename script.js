@@ -276,33 +276,39 @@ languageToggleBtn.addEventListener("click", () => {
 function updateSceneImage(imagePath) {
   let imgEl = leftPage.querySelector("img");
 
-  if (!imgEl) {
-    // Agar pehle image nahi hai
+  if (imgEl) {
+    // Add transition listener
+    imgEl.style.transition = "opacity 0.5s ease";
+    imgEl.style.opacity = "0";
+
+    // Jab fade-out complete ho tab hi src change kare
+    imgEl.addEventListener(
+      "transitionend",
+      function handler() {
+        imgEl.removeEventListener("transitionend", handler);
+
+        imgEl.src = imagePath;
+        // Thoda sa delay do taaki browser naya src apply kare
+        requestAnimationFrame(() => {
+          imgEl.style.opacity = "1"; // fade-in
+        });
+      }
+    );
+  } else {
+    // Agar pehle koi image nahi thi
     leftPage.insertAdjacentHTML(
       "afterbegin",
       `<img src="${imagePath}" alt="Scene Image" style="opacity:0; transition: opacity 0.5s ease;" />`
     );
+
+    // fade-in smoothly
     requestAnimationFrame(() => {
       const newImg = leftPage.querySelector("img");
       if (newImg) newImg.style.opacity = "1";
     });
-    return;
   }
-
-  // Agar pehle se image hai
-  // Turant src change karein aur opacity 0 → 1 animate kare
-  imgEl.style.transition = "none"; // pehle transition remove karo
-  imgEl.style.opacity = "0";       // instantly hide
-
-  // Turant src change karo
-  imgEl.src = imagePath;
-
-  // Small delay with requestAnimationFrame for smooth fade-in
-  requestAnimationFrame(() => {
-    imgEl.style.transition = "opacity 0.5s ease";
-    imgEl.style.opacity = "1"; // fade-in
-  });
 }
+
 
 
 function handleSceneChangeByAudio() {
