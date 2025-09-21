@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Codicted Whisperland</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <!-- Preloader -->
+<div id="preloader">
+  <div class="book-loader">
+    <div class="booklogo">
+      <div class="cover"></div>
+      <div class="page"></div>
+      <div class="page"></div>
+      <div class="page"></div>
+      <div class="back-cover"></div>
+    </div>
+    <p id="progress-text">Loading your library... 0%</p>
+  </div>
+</div>
+
+    <div id="book-content" style="display: none"></div>
+    <div class="background">
+      <button onclick="toggleFullScreenFromButton()" class="fullScreen">
+        <i id="fs-icon" class="fas fa-expand"></i>
+      </button>
+
+      <div class="butterfly-container"></div>
+
+      <div class="scalable-wrapper">
+        <div class="shelf-container">
+          <div class="logo-text">
+            <span class="codicted">Codicted</span>
+            <span class="whisperland">Whisperland</span>
+          </div>
+
+          <img src="assets/shelf.webp" alt="shelf" class="shelf" />
+
+          <!-- Book 1 -->
+          <img
+            onclick="fullScreen()"
+            src="assets/book1.webp"
+            class="book"
+            data-book="book1"
+            style="top: 95px; left: 40px"
+          />
+
+          <!-- Add more books similarly -->
+          <div class="magic-container" id="magicContainer">
+            <div class="magic-content"></div>
+          </div>
+
+          <!-- To Show Book  -->
+          <div class="sizeChanger">
+            <button class="Small"><i class="fas fa-search-minus"></i></button>
+            <button class="Large"><i class="fas fa-search-plus"></i></button>
+          </div>
+
+          <div class="bookContainer hidden">
+            <div class="bookContent">
+              <div class="leftPage page"></div>
+              <div class="frontPreview"></div>
+              <div class="backPreview"></div>
+              <div class="rightPage page"></div>
+            </div>
+            <button class="PrevBtn Btns">❮</button>
+            <button class="NextBtn Btns">❯</button>
+
+            <button id="scenePrevBtn" class="SceneToggle">◀</button>
+            <button id="sceneNextBtn" class="SceneToggle">▶</button>
+
+            <button id="modeToggleBtn">
+              <i id="soundIcon" class="fas fa-volume-up"></i>
+            </button>
+            <button id="languageToggleBtn">अA</button>
+          </div>
+        </div>
+      </div>
+    </div>
+     </div>
+    <script src="script.js"></script>
+  </body>
+</html>

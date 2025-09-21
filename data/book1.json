@@ -1,0 +1,304 @@
+{
+  "bookTitle": "Aira in Noorvan",
+  "author": "Codicted",
+  "pages": [
+{
+       "scenes": [
+      { "time": 0, "image": "assets/book1.webp" }
+
+       ],
+  "rightText": {
+   "en": "<div class='centered-book-text'><h2 class='book-name'> AIRA IN NOORVAN</h2><span class='by'>By</span><p class='author-name'>Codicted</p><p class='line'>Some doors open not with keys, but with dreams.</p><p class='year'>2025</p></div>",
+  "hi": "<div class='centered-book-text'><h2 class='book-name'> ऐरा इन नूरवन</h2> <span class='by'>द्वारा</span><p class='author-name'>Codicted</p><p class='line'>कुछ दरवाज़े चाबी से नहीं, सपनों से खुलते हैं।</p><p class='year'>२०२५</p></div>"
+  }
+    },
+    {
+      "scenes": [
+        { "time": 0, "image": "assets/1.webp" },
+        { "time": 10, "image": "assets/2.webp" }
+      
+      ],
+      "rightText": {
+        "en": "Aira is a 23-year-old spirited and cheerful young woman. Her eyes hold dreams, and her heart carries a world painted with vibrant colors. Every evening, she sits on her rooftop — sketchbook in hand, eyes filled with fluttering butterflies, distant hills, and a few unspoken dreams...",
+        "hi": "ऐरा 23 साल की एक जिंदादिल और खुशमिजाज लड़की। उसकी आँखों में सपने हैं और दिल में रंगों से भरी एक अद्भुत दुनिया। हर शाम वह अपनी छत पर बैठती है — हाथों में उसका स्केचबुक होता है, और आँखों में उड़ती तितलियाँ, पहाड़ियाँ और कुछ अनकहे ख्वाब।..."
+      }
+    },
+    {
+      "scenes": [
+     { "time": 0, "image": "assets/3.webp" },
+        { "time": 2.5, "image": "assets/4.webp" },
+        { "time": 17, "image": "assets/5.webp" }
+      
+      ],
+      "rightText": {
+        "en": "That evening too, she was creating something special A world of dreams — beneath the blue sky, nestled between mountains, stood a glowing golden door, a lake nearby, surrounded by fluttering, sparkling butterflies. As she places her fingers on the door in the sketch...",
+        "hi": "उस शाम भी वह कुछ खास बना रही थी... एक सपनों की दुनिया — नीले आसमान के नीचे, पहाड़ों के बीच एक चमकता हुआ सुनहरा दरवाज़ा , झील , जिसके पास चारों ओर उड़ती चमचमाती तितलियाँ। जैसे ही वह स्केच के उस दरवाज़ा पर अपनी उंगलियाँ रखती है..."
+      }
+    },
+      {
+      "scenes": [
+        { "time": 0, "image": "assets/5.webp" },
+        { "time": 0.2, "image": "assets/6.webp" },
+        { "time": 5, "image": "assets/7.webp" },
+        { "time": 9, "image": "assets/8.webp" },
+        { "time": 16, "image": "assets/9.webp" }
+      ],
+      "rightText": {
+        "en": "The sketch paper begins to glow, and in a burst of radiant light, the entire world transforms When Aira opens her eyes, she finds herself in a completely new, magical realm.The very world of her dreams… the same golden door, the same lake, the same butterflies — everything was alive!...",
+        "hi": "स्केच पेपर चमकने लगता है और एक चमकदार  रौशनी में पूरी दुनिया ही बदल जाती है जब ऐरा की आँखें खुलती हैं, वह खुद को एक बिल्कुल नई, जादुई दुनिया में पाती है। वही सपनों की दुनिया… वही दरवाज़ा, वही झील, वही तितलियाँ… सब कुछ ज़िंदा था!..."
+      }
+    },
+     {
+      "scenes": [
+        { "time": 1, "image": "assets/10.webp" },
+        { "time": 2, "image": "assets/11.webp" },
+        { "time": 6, "image": "assets/12.webp" },
+        { "time": 9, "image": "assets/11.webp" },
+        { "time": 11, "image": "assets/13.webp" },
+        { "time": 14, "image": "assets/14.webp" },
+        { "time": 20, "image": "assets/15.webp" }
+      ],
+      "rightText": {
+        "en": "Everything shimmered with a gentle glow — every tree, every leaf seemed to be breathing The air was filled with a sweet fragrance and a soft, melodic tune. She was a little surprised, yes, but there was a calm in her heart, as if she had been here before. And then, a smiling flower...",
+        "hi": "हर चीज़ में एक चमक थी, हर पेड़, हर पत्ता जैसे सांस ले रहा हो। हवाओं में एक मधुर सी खुशबू और कोमल सा संगीत घुला हुआ था। वह थोड़ी हैरान ज़रूर थी पर उसके दिल में एक  शांति थी जैसे वह यहाँ पहले भी आ चुकी हो। तभी, एक मुस्कुराता हुआ फूल..."
+      }
+    },
+     {
+      "scenes": [
+        { "time": 1, "image": "assets/16.webp" },
+        { "time": 1.7, "image": "assets/16.2.webp" },
+        { "time": 4, "image": "assets/15.webp" },
+        { "time": 7, "image": "assets/17.webp" },
+        { "time": 8, "image": "assets/18.webp" },
+        { "time": 12, "image": "assets/19.webp" },
+        { "time": 18, "image": "assets/20.webp" }
+      ],
+      "rightText": {
+        "en": "The flower floats toward her and says, “Welcome, Aira. We’ve been waiting for you.”Aira smiles… she reaches out to touch the flower, and it slowly disappears into the air. Just then, a glowing magical map lands gently on her palm...",
+        "hi": "उसके पास उड़ता हुआ आता है और कहता है: 'स्वागत है, ऐरा। तुम्हारा इंतज़ार था।' ऐरा मुस्कुराती है… हाथ बढ़ाकर फूल को छूती है, और वह फूल धीरे-धीरे हवा में गायब  हो जाता है। तभी उसकी हथेली पर एक चमकता हुआ जादुई नक्शा आ गिरता है।..."
+      }
+    },     {
+      "scenes": [
+        { "time": 1, "image": "assets/20.webp" },
+        { "time": 1.5, "image": "assets/21.webp" },
+        { "time": 8, "image": "assets/22.webp" },
+        { "time": 12, "image": "assets/23.webp" },
+        { "time": 15, "image": "assets/24.webp" }
+      ],
+      "rightText": {
+        "en": "The map speaks, “Aira, I am Navira. Come, let me show you your very own world — Noorvan.” Aira laughs and says, “You can talk too? Wow! Let’s go then!” Navira takes her first to a dreamy house atop a high hill — just like the one Aira had always imagined in her dreams...",
+        "hi": "नक्शा  बोलता है ऐरा मैं नविरा हूँ चलो , मैं तुम्हें तुम्हारी अपनी दुनिया नूरवन दिखाता हूँ। ऐरा हँसते हुए कहती है: तुम भी बात करते हो? वाह! चलो फिर! नविरा उसे सबसे पहले एक ऊँचे टीले पर बने सपनों के घर में ले जाता है जैसा ऐरा ने हमेशा अपने ख्वाबों में सोचा था..."
+      }
+    },
+     {
+      "scenes": [
+        { "time": 1, "image": "assets/24.webp" },
+        { "time": 2, "image": "assets/25.webp" },
+        { "time": 5, "image": "assets/26.webp" },
+        { "time": 14, "image": "assets/25.webp" },
+        { "time": 17, "image": "assets/27.webp" }
+      ],
+      "rightText": {
+        "en": "A house made of white stones, covered in blue flowers. Near the house, wind chimes sway gently in the air, filling the breeze with a soft, sweet sound On the door, it says: “Welcome” Aira bursts out joyfully, “Wow! This is exactly my dream!”...",
+        "hi": "सफेद पत्थरों से बना एक घर, नीले फूलों से ढका हुआ। घर के पास हवा में लहराती हुई घंटियाँ लगी हैं, जो धीरे-धीरे हवा के साथ प्यारी सी आवाज़ निकाल रही हैं। दरवाज़े पर लिखा है वेलकम ,  ऐरा खुशी से चिल्ला उठती है वाह! ये तो बिल्कुल मेरा सपना है..."
+      }
+    },
+       {
+      "scenes": [
+        { "time": 0, "image": "assets/28.webp" },
+        { "time": 1, "image": "assets/29.webp" },
+        { "time": 10, "image": "assets/30.webp" },
+        { "time": 14, "image": "assets/31.webp" },
+        { "time": 17, "image": "assets/32.webp" },
+        { "time": 19, "image": "assets/31.webp" }
+      ],
+      "rightText": {
+        "en": "She asks Navira, “Can I go inside?” Navira smiles and says, “Of course. This house is yours.” Aira runs in excitedly. The first thing she sees is a large magical sofa — soft, glowing cushions, and tiny lights floating all around it...",
+        "hi": "वह नविरा से पूछती है क्या मैं अंदर जा सकती हूँ? नविरा मुस्कुराकर कहता है बिल्कुल। यह घर तुम्हारा ही है। ऐरा दौड़ते हुए अंदर जाती है। सबसे पहले वह एक बड़ा सा जादुई सोफ़ा देखती है मुलायम चमकते हुए गद्दे और उसके चारों ओर तैरती रोशनियाँ।..."
+      }
+    },
+           {
+      "scenes": [
+        { "time": 1, "image": "assets/33.webp" },
+        { "time": 3, "image": "assets/34.webp" },
+        { "time": 10, "image": "assets/35.webp" },
+        { "time": 12, "image": "assets/36.webp" },
+        { "time": 15, "image": "assets/37.webp" },
+        { "time": 19, "image": "assets/38.webp" }
+      ],
+      "rightText": {
+        "en": "Aira sits down and takes a deep, peaceful breath… as if she has returned to her true home after years. Then she walks toward the kitchen, where pots and pans are floating in the air on their own. Laughing, she picks up a magical kettle and makes herself some tea After making the tea...",
+        "hi": "ऐरा उस पर बैठती है और एक गहरी, सुकून भरी साँस लेती है...जैसे सालों बाद वह अपने असली घर में लौटी हो। फिर वह किचन की ओर जाती है जहाँ बर्तन खुद हवा में तैर रहे हैं। वह हँसते हुए एक जादुई केतली उठाती है और उसमें चाय बनाती है। चाय बनाने के बाद ..."
+      }
+    },
+        {
+      "scenes": [
+        { "time": 1, "image": "assets/39.webp" },
+        { "time": 1.5, "image": "assets/40.webp" },
+        { "time": 4, "image": "assets/41.webp" },
+        { "time": 6, "image": "assets/42.webp" },
+        { "time": 9, "image": "assets/43.webp" },
+        { "time": 12, "image": "assets/44.webp" },
+        { "time": 20, "image": "assets/45.webp" }
+      ],
+      "rightText": {
+        "en": "she sips tea with Navira and then begins exploring the rest of the house. Soon, her eyes fall on a room — inside, there's a shelf filled with books. Each book is connected to her memories and emotions. The moment she opens one, scenes from her past begin to float in the air...",
+        "hi": "वह नविरा के साथ चाय पीती है और फिर घर के बाकी हिस्से देखने लगती है। तभी उसकी नज़र एक कमरे पर पड़ती है कमरे में किताबों से भरी एक शेल्फ है हर किताब उसकी यादों और भावनाओं से जुड़ी हुई। एक किताब खोलते ही उसकी यादों के मंज़र हवा में तैरने लगते हैं..."
+      }
+    },
+        {
+      "scenes": [
+        { "time": 1, "image": "assets/45.webp" },
+        { "time": 3, "image": "assets/46.webp" },
+        { "time": 10, "image": "assets/47.webp" },
+        { "time": 15, "image": "assets/48.webp" },
+        { "time": 17, "image": "assets/49.webp" },
+        { "time": 21, "image": "assets/50.webp" }
+      ],
+      "rightText": {
+        "en": "Aira softly whispers, “Every corner holds my story.” She begins reading the books when Navira says, “Come on, Aira, there are still many more places I need to show you.” Aira replies, “Yes, yes, let’s go!” Then, bidding the house goodbye, Aira steps outside. Navira and Aira begin walking together...",
+        "hi": "ऐरा धीमे से बुदबुदाती है।— हर कोने में मेरी कहानी है वह उन किताबों को पढ़ने लगती है तभी नविरा कहता है चलो ऐरा, अभी तुम्हें और भी जगहें दिखानी हैं। ऐरा कहती है हाँ हाँ, चलो! फिर ऐरा घर को अलविदा कहकर बाहर निकलती है नविरा और ऐरा चलने लगते हैं..."
+      }
+    },
+        {
+      "scenes": [
+        { "time": 1, "image": "assets/51.webp" },
+        { "time": 13, "image": "assets/52.webp" },
+        { "time": 18, "image": "assets/53.webp" }
+      ],
+      "rightText": {
+        "en": "As they walk, she spots a large waterfall. By its edge hangs a wooden swing, surrounded by the fragrance of flowers and the soothing sound of flowing water. Aira sits on the swing, her face gently hidden behind strands of wind-blown hair… her eyes are closed...",
+        "hi": "चलते-चलते वह एक बड़ा सा झरना देखती है झरने के किनारे एक लकड़ी का झूला टंगा है। उसके पास फूलों की महक है और पानी की लहरों का सुकून। ऐरा झूले पर बैठती है उसका चेहरा हल्के उड़ते बालों के पीछे छुपा हुआ है… उसकी आँखें बंद हैं…"
+      }
+    },
+        {
+      "scenes": [
+        { "time": 1, "image": "assets/53.webp" },
+        { "time": 2, "image": "assets/54.webp" },
+        { "time": 12, "image": "assets/55.webp" },
+        { "time": 14, "image": "assets/56.webp" },
+        { "time": 17, "image": "assets/57.webp" },
+        { "time": 19, "image": "assets/58.webp" },
+        { "time": 21, "image": "assets/59.webp" }
+      ],
+      "rightText": {
+        "en": "Aira says to herself... “For the first time, it feels like I’m truly free — without any stress.” The droplets from the waterfall kiss her cheeks, and she simply smiles. Aira spends quite some time by the waterfall. Then she and Navira continue on their journey...",
+        "hi": "ऐरा मन ही मन कहती है... आज पहली बार लग रहा है  जैसे मैं सच में आज़ाद हूँ  बिना किसी तनाव के , झरने की बूँदें उसके गालों को चूमती हैं, और वह बस मुस्कुरा देती है। ऐरा काफ़ी समय झरने के किनारे बिताती है। फिर वह और नविरा अपने सफर में आगे बढ़ते हैं।..."
+      }
+    },
+        {
+      "scenes": [
+        { "time": 1, "image": "assets/60.webp" },
+        { "time": 2, "image": "assets/61.webp" },
+        { "time": 8, "image": "assets/62.webp" },
+        { "time": 12, "image": "assets/63.webp" },
+        { "time": 17, "image": "assets/64.webp" },
+        { "time": 21, "image": "assets/65.webp" }
+      ],
+      "rightText": {
+        "en": "As they move forward, Aira sees a glowing, flying magical carpet. She asks, “Navira, what is this?” Navira smiles and says, “Come, let me take you on a ride through the sky!” Aira sits on the carpet, and it slowly begins to rise and float into the air...",
+        "hi": "आगे बढ़ते हुए, ऐरा को एक चमकता हुआ उड़ने वाला जादुई कालीन दिखाई देता है। वह पूछती है नविरा, यह क्या है? नविरा मुस्कुराता है और कहता है चलो, तुम्हें आसमान की सैर कराता हूँ! ऐरा कालीन पर बैठती है, और वह धीरे-धीरे उड़ने लगता है..."
+      }
+    },
+        {
+      "scenes": [
+        { "time": 1, "image": "assets/65.webp" },
+        { "time": 5, "image": "assets/66.webp" },
+        { "time": 8, "image": "assets/67.webp" },
+        { "time": 13, "image": "assets/68.webp" },
+        { "time": 16, "image": "assets/69.webp" }
+      ],
+      "rightText": {
+        "en": "The carpet glides through the clouds, and Aira reaches out to touch them with her hands. Below, the entire world of Noorvan looks like a beautiful, toy-like land. A rainbow arches above her, and she looks up, gently brushing her fingers through its  colors, feeling each one...",
+        "hi": "कालीन बादलों के बीच से गुज़रता है ऐरा अपने हाथों से बादलों को छूती है नीचे पूरा नूरवन खिलौनों जैसी प्यारी दुनिया लग रहा था एक इंद्रधनुष ऐरा के ऊपर से निकलता है, और वह ऊपर देखकर उसके सारे रंगों को हल्के हाथों से छूकर महसूस करती है।..."
+      }
+    },
+        {
+      "scenes": [
+        { "time": 1, "image": "assets/70.webp" },
+        { "time": 15, "image": "assets/71.webp" },
+        { "time": 19, "image": "assets/72.webp" },
+        { "time": 21, "image": "assets/73.webp" },
+        { "time": 23, "image": "assets/74.webp" }
+      ],
+      "rightText": {
+        "en": "Adorable little birds fly through the air, and their sweet chirping feels as if it's echoing right beside Aira. She feels pure joy. Aira says to herself, “This is even more beautiful than I ever imagined.” Then, Navira and Aira step off the carpet and continue their journey...",
+        "hi": "प्यारे-प्यारे पक्षी हवा में उड़ रहे होते हैं, और उनकी मीठी-मीठी आवाजें ऐरा को  बिल्कुल पास से सुनाई देती हैं। ऐरा को बहुत आनंद आता है। ऐरा खुद से कहती है। यह तो मेरी कल्पना से भी ज़्यादा सुंदर है फिर नविरा और ऐरा कालीन से उतरते हैं और आगे बढ़ते हैं।..."
+      }
+    },
+        {
+      "scenes": [
+        { "time":1, "image": "assets/75.webp" },
+        { "time":7, "image": "assets/76.webp" },
+        { "time":11, "image": "assets/77.webp" },
+        { "time":13, "image": "assets/78.webp" },
+        { "time":15, "image": "assets/79.webp" },
+        { "time":17, "image": "assets/80.webp" }
+      ],
+      "rightText": {
+        "en": "As they walk further, they arrive at a magical forest where colorful fruits hang from every tree. Aira picks a few and keeps them with her. Then she and Navira sit by the base of a tree and begin tasting the fruits — some are sweet, and some are tangy...",
+        "hi": "आगे चलते हुए वे एक जादुई जंगल में पहुँचते हैं जहाँ हर पेड़ पर रंग-बिरंगे फल लटक रहे होते हैं। ऐरा कुछ फल तोड़कर अपने पास रख लेती है। फिर ऐरा और नवीरा एक पेड़ के किनारे बैठकर उन फलों को खाने लगते हैं कुछ मीठे होते हैं तो कुछ खट्टे ..."
+      }
+    },
+        {
+      "scenes": [
+        { "time": 1, "image": "assets/80.webp" },
+        { "time": 3, "image": "assets/81.webp" },
+        { "time": 5, "image": "assets/82.webp" },
+        { "time": 10, "image": "assets/83.webp" },
+        { "time": 18, "image": "assets/84.webp" },
+        { "time": 20, "image": "assets/85.webp" }
+      ],
+      "rightText": {
+        "en": "After eating one of the fruits, they just can’t stop laughing — rolling with laughter through the bushes. Aira turns to Navira and says, “Navira, the happiness you've given me... I can never forget it.” A little while later, Aira sees the same glowing painting in front of her — the same door, the same mountains, the same lake...",
+        "hi": "एक फल खाने पर उनकी हँसी रुकती ही नहीं वह झाड़ियों में लोट-लोटकर हँसते है। और ऐरा नविरा से कहती है नविरा, तुमने मुझे जितनी खुशी दी है… वो मैं कभी भूल नहीं सकती थोड़ी देर बाद, ऐरा को सामने वही चमकती हुई पेंटिंग दिखाई देती है वही दरवाज़ा, वही पहाड़, वही झील..."
+      }
+    },
+        {
+      "scenes": [
+        { "time": 1, "image": "assets/86.webp" },
+        { "time": 3, "image": "assets/87.webp" },
+        { "time": 6, "image": "assets/88.webp" },
+        { "time": 17, "image": "assets/89.webp" }
+      ],
+      "rightText": {
+        "en": "She says in surprise, “Oh! Navira, this is my painting!” Navira gently replies, “Yes, Aira… it is your painting.” In a softer voice, he adds, “Aira, now you must go back.”Aira becomes a little sad and asks, “I have to leave?”...",
+        "hi": "वह हैरानी से कहती है अरे! नविरा, ये तो मेरी ही पेंटिंग है! नविरा धीरे से कहता है हाँ ऐरा… ये तुम्हारी ही पेंटिंग है। थोड़ी धीमी आवाज़ में वह कहता है ऐरा, अब तुम्हें वापस जाना होगा ऐरा थोड़ी उदास हो जाती है और कहती है मुझे जाना होगा?..."
+      }
+    },
+        {
+      "scenes": [
+        { "time": 1, "image": "assets/90.webp" },
+        { "time": 3, "image": "assets/91.webp" },
+        { "time": 10, "image": "assets/92.webp" },
+        { "time": 15, "image": "assets/87.webp" },
+        { "time": 16, "image": "assets/93.webp" },
+        { "time": 18, "image": "assets/94.webp" }
+      ],
+      "rightText": {
+        "en": "Navira, with emotion in his voice, says, “This world is yours… come back whenever you wish. I’ll always be waiting for you.” Aira smiles and says, “My dear friend… I will return, for sure.” Then she touches the door… and with a flash of light, she finds herself back on her rooftop...",
+        "hi": "नविरा भावुक होकर कहता है यह दुनिया तुम्हारी है… जब मन करे वापस आजाना। मैं हमेशा तुम्हारा इंतज़ार करूँगा। ऐरा मुस्कुराकर कहती है मेरे प्यारे दोस्त… मैं ज़रूर आऊँगी। फिर वह उस दरवाज़ा को छूती है… और एक चमक के साथ वापस अपनी छत पर आ जाती है…"
+      }
+    },
+        {
+      "scenes": [
+        { "time": 1, "image": "assets/94.webp" },
+        { "time": 5, "image": "assets/95.webp" },
+        { "time": 8, "image": "assets/96.webp" }
+      ],
+      "rightText": {
+        "en": "With her sketchbook in her hands and a new world — Noorvan — in her heart, Aira smiles and sits on the swing placed on the rooftop… And this is where the story ends.",
+        "hi": "हाथों में उसका स्केचबुक, और दिल में एक नई दुनिया — नूरवन। ऐरा मुस्कुराकर छत पर रखे झूले में बैठ जाती है… और यहीं यह कहानी समाप्त होती है।"
+      }
+    },
+        {
+      "scenes": [
+        { "time": 1, "image": "assets/book1.webp" }
+      ],
+      "rightText": {
+        "en": "<span class='end'>THE END</span><p class='endline'>“Thank you for reading. You're always welcome in Noorvan.”</p>",
+        "hi": "<span class='end'>समाप्ति</span><p class='endline'>“इस किताब को पढ़ने के लिए धन्यवाद। नूरवन में आपका हमेशा स्वागत है।”</p>"
+      }
+    }
+  ]
+}
