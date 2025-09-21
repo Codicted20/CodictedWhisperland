@@ -311,6 +311,7 @@ function updateSceneImage(imagePath) {
 
 
 
+
 function handleSceneChangeByAudio() {
   const page = bookData[currentPage];
   if (!page || !page.scenes) return;
