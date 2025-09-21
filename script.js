@@ -276,6 +276,9 @@ languageToggleBtn.addEventListener("click", () => {
 function updateSceneImage(imagePath) {
   let imgEl = leftPage.querySelector("img");
 
+  // Agar image already wahi hai to kuch mat karo
+  if (imgEl && imgEl.src.includes(imagePath)) return;
+
   if (!imgEl) {
     // First image
     leftPage.insertAdjacentHTML(
@@ -293,7 +296,7 @@ function updateSceneImage(imagePath) {
     return;
   }
 
-  // Existing image → gentle fade-out
+  // Existing image → gentle fade-out and fade-in new image
   imgEl.style.transition = "opacity 0.5s ease";
   imgEl.style.opacity = "0";
 
