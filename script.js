@@ -283,37 +283,14 @@ function updateSceneImage(imagePath) {
     // First image
     leftPage.insertAdjacentHTML(
       "afterbegin",
-      `<img src="${imagePath}" alt="Scene Image" style="
-        opacity:0; 
-        transition: opacity 0.8s ease;" />`
+      `<img src="${imagePath}" alt="Scene Image" />`
     );
-    requestAnimationFrame(() => {
-      const newImg = leftPage.querySelector("img");
-      if (newImg) {
-        newImg.style.opacity = "1"; // gentle fade-in
-      }
-    });
     return;
   }
 
-  // Existing image → gentle fade-out and fade-in new image
-  imgEl.style.transition = "opacity 0.5s ease";
-  imgEl.style.opacity = "0";
-
-  imgEl.addEventListener("transitionend", function handler() {
-    imgEl.removeEventListener("transitionend", handler);
-
-    // Change src
-    imgEl.src = imagePath;
-
-    // Fade in new scene gently
-    requestAnimationFrame(() => {
-      imgEl.style.transition = "opacity 0.8s ease";
-      imgEl.style.opacity = "1";
-    });
-  });
+  // Existing image → simply change src without transition
+  imgEl.src = imagePath;
 }
-
 
 
 function handleSceneChangeByAudio() {
