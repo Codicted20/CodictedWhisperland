@@ -274,29 +274,36 @@ languageToggleBtn.addEventListener("click", () => {
 });
 
 function updateSceneImage(imagePath) {
-  const imgEl = leftPage.querySelector("img");
+  let imgEl = leftPage.querySelector("img");
 
-  if (imgEl) {
-    //first fade-out
-    imgEl.style.transition = "opacity 0.5s ease";
-    imgEl.style.opacity = "0";
-    //After Transition end change src then fade-in
-    setTimeout(() => {
-      imgEl.src = imagePath;
-      imgEl.style.opacity = "1"; // fade-in
-    }, 200);
-  } else {
+  if (!imgEl) {
+    // Agar pehle image nahi hai
     leftPage.insertAdjacentHTML(
       "afterbegin",
-      `<img src="${imagePath}" alt="Scene Image" style="opacity: 0; transition: opacity 0.5s ease;" />`
+      `<img src="${imagePath}" alt="Scene Image" style="opacity:0; transition: opacity 0.5s ease;" />`
     );
-    //after some time set opacity 1 for fade-in
-    setTimeout(() => {
+    requestAnimationFrame(() => {
       const newImg = leftPage.querySelector("img");
       if (newImg) newImg.style.opacity = "1";
-    }, 50);
+    });
+    return;
   }
+
+  // Agar pehle se image hai
+  // Turant src change karein aur opacity 0 → 1 animate kare
+  imgEl.style.transition = "none"; // pehle transition remove karo
+  imgEl.style.opacity = "0";       // instantly hide
+
+  // Turant src change karo
+  imgEl.src = imagePath;
+
+  // Small delay with requestAnimationFrame for smooth fade-in
+  requestAnimationFrame(() => {
+    imgEl.style.transition = "opacity 0.5s ease";
+    imgEl.style.opacity = "1"; // fade-in
+  });
 }
+
 
 function handleSceneChangeByAudio() {
   const page = bookData[currentPage];
